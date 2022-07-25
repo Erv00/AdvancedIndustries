@@ -1,0 +1,9 @@
+{
+  "name": "advanced-industries",
+  "version": "0.1.0",
+  "title": "Advanced Industries",
+  "author": "Aron and Ervin",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"],
+  "description": "A mod that reworks the electricity system"
+}
